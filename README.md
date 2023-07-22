@@ -8,7 +8,7 @@
 
   Homeverse is fully responsive Real estate website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/homeverse/"><strong>➥ Live Demo</strong></a>
+  <a href="https://syr-home-verse-prototype-demo.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -32,13 +32,13 @@ To run **Homeverse** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/homeverse.git
+sudo git https://github.com/Sufi-Yan-Raza/sc-syr-home-verse-prototype-demo.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/homeverse.git
+git clone https://github.com/Sufi-Yan-Raza/sc-syr-home-verse-prototype-demo.git
 ```
 
 ### License
